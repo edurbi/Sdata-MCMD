@@ -8,7 +8,7 @@ import pandas as pd
 import torchio as tio
 import matplotlib.pyplot as plt
 
-subjects_path = "/mnt/d/PETCT/ImagesTr/"
+subjects_path = "/data/"
 
 
 def get_shape(subject):
